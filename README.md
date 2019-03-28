@@ -1,3 +1,7 @@
+# WARNING
+
+I was going to patch this version to add support for bs-platform ^5.0.0, but it's already been done. The package on npm is not up to date with the source repository. 
+
 ## Bucklescript bindings to pixl-xml
 
 Bindings for [pixl-xml](https://github.com/jhuckaby/pixl-xml) XML parser.
