@@ -1,0 +1,26 @@
+{
+  "name": "bs-pixl-xml",
+  "version": "0.1.0",
+  "description": "Bucklescript bindings to pixl-xml",
+  "scripts": {
+    "bs-build": "bsb -clean-world -make-world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/NicolasJouanin/bs-pixl-xml.git"
+  },
+  "keywords": [
+    "reason",
+    "reasonml",
+    "bucklescript",
+    "pixl-xml"
+  ],
+  "author": "Nicolas Jouanin <nico@beerfactory.org>",
+  "license": "MIT",
+  "peerDependencies": {
+    "pixl-xml": "^1.0.13"
+  },
+  "dependencies": {
+    "pixl-xml": "^1.0.13"
+  }
+}
