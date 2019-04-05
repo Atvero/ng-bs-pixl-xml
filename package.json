@@ -21,6 +21,6 @@
     "pixl-xml": "^1.0.13"
   },
   "dependencies": {
-    "pixl-xml": "^1.0.13"
+    "pixl-xml": "nittygritty-uk/pixl-xml"
   }
 }
