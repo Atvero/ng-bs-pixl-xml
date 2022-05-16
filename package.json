@@ -1,13 +1,13 @@
 {
   "name": "bs-pixl-xml",
   "version": "0.1.0",
-  "description": "Bucklescript bindings to pixl-xml",
+  "description": "customised Bucklescript bindings to monkeypatched pixl-xml fork",
   "scripts": {
     "bs-build": "bsb -clean-world -make-world"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/NicolasJouanin/bs-pixl-xml.git"
+    "url": "https://gitlab.com/Atvero/ng-pixl-xml.git"
   },
   "keywords": [
     "reason",
@@ -15,12 +15,12 @@
     "bucklescript",
     "pixl-xml"
   ],
-  "author": "Nicolas Jouanin <nico@beerfactory.org>",
+  "author": "Louis Boyle <louis@atvero.com>",
   "license": "MIT",
   "peerDependencies": {
     "pixl-xml": "^1.0.13"
   },
   "dependencies": {
-    "pixl-xml": "nittygritty-uk/pixl-xml"
+    "pixl-xml": "Atvero/ng-pixl-xml"
   }
 }
